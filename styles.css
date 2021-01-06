@@ -1,0 +1,88 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+h1{
+    font-size: 60px;
+    line-height: 10px;
+    padding-bottom: 15px;
+}
+h2{
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+.linkButton{
+    background-image: linear-gradient(145deg, tomato, red);
+    padding: 15px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+}
+.tomatoColor{
+    color: tomato;
+}
+.divWidth{
+    width: 35%;
+    float: left;
+    margin: 4%;
+    padding: 2%;
+}
+.divWidth img{
+    width: 100%;
+}
+.divWidth p{
+    padding-bottom: 25px;
+}
+section{
+    height: 500px;
+    margin-bottom: 150px;
+}
+.workexh2{
+    text-align: center;
+}
+.projectDiv{
+    width: 25%;
+    height: 65%;
+    box-shadow: 10px 10px 20px gray;;
+    float: left;
+    border-radius: 15px;
+    margin: 2%;
+    padding: 2%;
+
+}
+.projectDiv img{
+    width: 100%;
+    height: 55%;
+}
+h3{
+    text-align: center;
+}
+.inquirySection{
+    height: 200px;
+    background-image: url(shapes/bg.png);
+    background-position: center center;
+    background-size: 75%;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+   
+}
+.inquiryWidth{
+    width: 40%;
+    display: inline-block;
+
+}
+#inquiryDivFirst{
+    margin-top: 60px;
+    margin-left: 60px;
+   
+}
+#inquiryDivFirst h3{
+    font-size: 30px;
+    color: black;
+    
+}
+#inquiryDivSecond{
+    margin-top: 60px;
+    margin-left: 100px;
+    position: relative;
+    
+}
